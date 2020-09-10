@@ -11,7 +11,4 @@ The dataset consists of around 126,000 positive and negative images.
     
 # Contributors
 
-Shashwat Rathod 
-Prem Banker 
-Daiveek Naik 
-Mauli Patel
+Shashwat Rathod, Prem Banker, Daiveek Naik, Mauli Patel
